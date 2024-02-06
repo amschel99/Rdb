@@ -1,5 +1,5 @@
 # Rdb
 A simple dbms in Rust
 ## References
-https://cstack.github.io/db_tutorial/
-Database Internals book
+1. https://cstack.github.io/db_tutorial/
+2. Database Internals book
