@@ -4,3 +4,5 @@ A simple dbms in Rust
  https://cstack.github.io/db_tutorial/
    
  Database Internals book
+
+ https://littleosbook.github.io/book.pdf
